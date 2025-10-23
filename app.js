@@ -2,11 +2,11 @@
 
 /* ---------------- 設定（必ず確認・変更する部分） ---------------- */
 // Google Apps Script の公開 exec URL（その月のものに差し替えてください）
-const API_URL = "https://script.google.com/macros/s/AKfycbxWOooLuN6YrXJRlAo77CIuRNNaApzeyuqEAbY2OaO4Zg9P5SQmNMsiav-wtBWYvzaD/exec";
+const API_URL = "https://script.google.com/macros/s/AKfycbzZf1bnQyVrhS2tag2H0yWYdLVcGYCoOAKKxbIlzit9Nc3Epqt4RFGBJb5bgUNHURYr/exec";
 
 // 集計対象の年月（日付ドロップダウンはこの月で固定）
 const YEAR = 2025;
-const MONTH = 10;
+const MONTH = 11;
 const DAY_MIN = 1;
 const DAY_MAX = 30;
 
